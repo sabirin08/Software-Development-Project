@@ -1,1 +1,1 @@
-# Software-Development-Project
+A Java-based software project for managing employee records, including features for updating data, searching by SSN, and applying salary raises. Built as a collaborative group project for CSC 3350 with UML design, test cases, and database integration using MySQL.
