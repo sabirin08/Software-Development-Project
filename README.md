@@ -1,5 +1,4 @@
 # EmployeePulse
----
 
 ## Overview
 
