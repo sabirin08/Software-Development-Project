@@ -26,7 +26,7 @@ A Java-based software project for managing employee records, including features 
 ├── DatabaseHandler.java         # JDBC operations (insert, update, search, salary range update)
 ├── Part_A_UML.pdf               # Class, use case, and sequence diagrams
 ├── Part_B_Test_Cases.pdf        # Test case documentation
-├── SabirinMohamed_13_SWDD.pdf   # Software Design Description Document
+├── SWDD.pdf                     # Software Design Description Document
 └── README.md
 ```
 
@@ -112,4 +112,4 @@ Class diagrams, use case diagrams, and sequence diagrams are available in `Part_
 
 ## Software Design Document
 
-The full Software Design Description (SWDD) is available in `SabirinMohamed_13_SWDD.pdf`. It covers system architecture, data design, data dictionary, component pseudocode, human interface design, and the requirements traceability matrix.
+The full Software Design Description (SWDD) is available in `SWDD.pdf`. It covers system architecture, data design, data dictionary, component pseudocode, human interface design, and the requirements traceability matrix.
